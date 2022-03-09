@@ -1,4 +1,4 @@
 # A portfolio website built using ReactJs.
-visit https://sidharthmahala.github.io 
-if you have any feedback please feel free to contact me
+**coming soon !** 
+if you have any feedback please feel free to contact me at -->
 sidharthmahala@gmail.com
